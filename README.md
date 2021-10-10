@@ -12,13 +12,7 @@ Class Link: [Web Development](https://johnguerra.co/classes/webDevelopment_fall_
 - Deploy my website using Github page
 
 ## Screenshots
-<img
-          id="me"
-          src="images/screen1.jpg"
-          width="300"
-          height="300"
-          alt="This is a screenshot of my profile."
-        />
+![](https://github.com/NancyDong122463/homePageYananDong/blob/main/images/screen.png)
 
 ## Tech requirements
 - HTML
