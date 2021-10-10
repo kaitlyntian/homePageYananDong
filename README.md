@@ -3,7 +3,7 @@ Author: [Yanan Dong](https://github.com/NancyDong122463)
 
 Class Link: [Web Development](https://johnguerra.co/classes/webDevelopment_fall_2021/)
 
-[Video demonstration](https://youtu.be/zZrSm8e00Uo)
+[Video demonstration](https://www.youtube.com/watch?v=qf_M64YUM14&t=2s)
 
 ## Project Objective
 - Show our personal info to others
