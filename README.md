@@ -1,5 +1,5 @@
 # Yanan's Website
-Author: [Yanan Dong](https://github.com/NancyDong122463)
+Author: [Yanan Dong](https://www.linkedin.com/in/yanandong/)
 
 Class Link: [Web Development](https://johnguerra.co/classes/webDevelopment_fall_2021/)
 
@@ -17,5 +17,6 @@ Class Link: [Web Development](https://johnguerra.co/classes/webDevelopment_fall_
 HTML CSS  Bootstrap JavaScript
 
 ## How to use
-- git clone or download zip file for the code
-- open this website in browser
+1. git clone or download zip file for the code
+2. right click the folder
+3. open this website in browser
