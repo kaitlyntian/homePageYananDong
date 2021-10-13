@@ -20,3 +20,7 @@ HTML CSS  Bootstrap JavaScript
 1. git clone or download zip file for the code
 2. right click the folder
 3. open this website in browser
+
+## Slides:
+
+## Project structure
